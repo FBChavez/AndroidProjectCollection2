@@ -50,4 +50,11 @@
     <string name="pXWins">Player X wins!</string>
     <string name="pDraw">It\'s a draw!</string>
     <string name="restart">Restart</string>
+
+    <!-- Match 3 -->
+    <string name="scorelbl">Score</string>
+    <string name="score_format">%d</string>
+    <string name="reset">Reset</string>
+    <string name="randomize">Randomize</string>
+
 </resources>
